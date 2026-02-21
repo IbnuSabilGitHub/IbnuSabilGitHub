@@ -1,18 +1,34 @@
-## Hi there 👋
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbnuSabilGitHub&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbnuSabilGitHub&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuSabilGitHub&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
+<h1 align="center">Hi, I'm Ibnu </h1>
 
 
-<!-- Tech Stack -->
-<div align="center">
 
-![snake gif](https://github.com/IbnuSabilGitHub/IbnuSabilGitHub/blob/output/github-contribution-grid-snake-dark.svg)
+## 🚀 About Me
 
-<div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=IbnuSabilGitHub&label=Profile%20Views&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
-</div>
+- 🎓 Informatics Engineering Student  
+- 🛠️ Building projects that focus on logic, structure, and long-term scalability  
+- ☕ Coffee-powered developer  
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbnuSabilGitHub&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IbnuSabilGitHub&theme=tokyonight&hide_border=true" height="170"/>
+</p
+
+# Wakatime Stats
+<p align="center">
+  <img src="https://wakatime.com/share/@nuCodes/a1579eb4-7c75-4280-a524-d6153f23d623.svg" />
+  <img src="https://wakatime.com/share/@nuCodes/25ec62e7-9db9-4105-9039-c24acf241103.svg" />
+</p>
+
+
+
+
+
+
+
+
